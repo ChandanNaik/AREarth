@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{0EE546E2-5E4E-E7CE-26F7-6DA9015EEFFA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/DataSphere/Scripts/DataSphereEmitter.cs">
+    <Files>
+      <File FileName="Assets/DataSphere/Scripts/DataSphereEmitter.cs" Line="5" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Data-Sphere-master" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="499a3206-5fe1-4fed-9cde-e3f71a4d255a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
