@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{B4A6A4D0-A4BF-A335-0FA7-5AED64F450BC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/OrbitMotion.cs">
+    <Files>
+      <File FileName="Assets/Ellipse.cs" Line="1" Column="1" />
+      <File FileName="Assets/OrbitMotion.cs" Line="27" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Orbital Path" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="OrbitMotion.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="44f3fffd-06a9-4285-b7ef-7ca71f696f7a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
